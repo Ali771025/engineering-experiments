@@ -2,6 +2,11 @@
 
 # Engineering Experiments
 
+<!-- project-contact:start -->
+**Work with Yosof Omrani:** [Email a project inquiry](mailto:aliomrani916@gmail.com) · **aliomrani916@gmail.com** · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/) · [Portfolio walkthrough](https://ali771025.github.io/software-portfolio/en/#projects)
+<!-- project-contact:end -->
+
+
 **Small engineering source studies: SKiDL/PySpice circuit netlist automation and a tabular regression example.**
 
 [فارسی](docs/README.fa.md) · [Architecture](docs/ARCHITECTURE.md) · [Publication scope](docs/PUBLIC_EDITION.md)
